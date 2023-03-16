@@ -29,7 +29,7 @@
     "@types/node": "^11.13.0",
     "@types/cross-spawn": "^6.0.0",
     "tsc": "^1.20150623.0",
-    "typescript": "^2.3.3"
+    "typescript": "^5.0.0"
   },
   "repository": {
     "type": "git",
